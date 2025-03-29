@@ -17,6 +17,11 @@
 	 - Disk space % used
 	 - Amount of data downloaded/uploaded since reboot
 
+This is just an example for you to use this is not provided as a finished product.
+
+Here are my related 3D models as pictured below:
+https://makerworld.com/@n3rding/collections/5667731-10-inch-40mm-fan-bay
+
 ![Photo](photo.jpg)
 
 **Instructions to setup Pi:**
